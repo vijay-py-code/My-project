@@ -5,7 +5,8 @@
 from urllib.request import urlopen
 import json
 
-def get_weather(city):
+def get_city_weather(city):
     print ("Hello to GitHub")
+
 
 print("hi boss, i have made the change")
